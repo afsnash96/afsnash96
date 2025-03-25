@@ -1,8 +1,12 @@
-# Hi, I'm Afi!  
-**Aspiring Data Analyst | Python • SQL • Power BI • Data Storytelling**
+# Hi, I'm Afsaneh! but you can call me "Afi"   
+**Aspiring Data Analyst & Storyteller| Python • SQL • Power BI • Data Storytelling**
 
-I'm passionate about data—I believe that if you can communicate with data and truly understand it, it will never deceive you.  
-To me, data is more than numbers; it's a story, a guide, and a source of meaningful impact.
+My name means *legendary tales and fiction*, and I believe data has stories just as powerful—if we learn how to listen.  
+As a data analyst, I’m passionate about uncovering meaningful patterns, crafting insights, and telling the *true* stories behind the numbers.
+
+Whether it’s a dashboard, a dataset, or a discovery, I see data as a bridge between facts and imagination—between the seen and the unseen.
+
+📚 Currently building my portfolio and turning raw data into stories that speak.
 
 ---
 
